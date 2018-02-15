@@ -11,4 +11,5 @@ public class FileData {
 	public String TargetFile="";
 	public String Step1Table="";
 	public String Step2Table = "";
+	public String Step3Table = "";
 }

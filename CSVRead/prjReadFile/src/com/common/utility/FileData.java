@@ -12,4 +12,5 @@ public class FileData {
 	public String Step1Table="";
 	public String Step2Table = "";
 	public String Step3Table = "";
+	public String Step4Table = "";
 }
